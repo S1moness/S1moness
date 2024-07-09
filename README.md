@@ -1,6 +1,6 @@
 - 👋 Hi, @S1moness here
 - coding & learning for golang & C++
-- fight for operating system & system constructure
+- trying to have a oppertunity to fight for operating system & system constructure reserching
 
 <!---
 S1moness/S1moness is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
